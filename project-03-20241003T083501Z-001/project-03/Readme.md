@@ -1,4 +1,3 @@
-Certainly! Below is the README file for your `DigitalRightsManagement` smart contract:
 
 ---
 
