@@ -51,4 +51,3 @@ Contributions are welcome! If you have suggestions for improving the Digital Rig
 
 ---
 
-Feel free to update and expand the README as your project grows and new features are added!
